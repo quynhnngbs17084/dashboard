@@ -1,0 +1,20 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "dashboard web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w assets/sass/main.scss assets/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quynhnngbs17084/dashboard.git"
+  },
+  "author": "chocopie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quynhnngbs17084/dashboard/issues"
+  },
+  "homepage": "https://github.com/quynhnngbs17084/dashboard#readme"
+}
